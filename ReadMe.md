@@ -1,1 +1,3 @@
-# Testing Recipies
+# React + TypeScript + Vite
+
+- Testing recipies
